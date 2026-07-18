@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-18T01:54:44.562Z",
+  "updated_at": "2026-07-18T01:55:50.729Z",
   "videos": [
-    {
-      "name": "VID-20260704-WA0010.mp4",
-      "path": "videos/VID-20260704-WA0010.mp4",
-      "sha": "c033208609400c0c7bc5b54b0d931ebcd3f9d4db",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20260704-WA0010.mp4",
-      "size": 13090523
-    },
     {
       "name": "VID-20260716-WA0000.mp4",
       "path": "videos/VID-20260716-WA0000.mp4",
