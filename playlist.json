@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:54:03.528Z",
+  "updated_at": "2026-07-18T01:54:44.562Z",
   "videos": [
     {
       "name": "VID-20260704-WA0010.mp4",
@@ -7,6 +7,13 @@
       "sha": "c033208609400c0c7bc5b54b0d931ebcd3f9d4db",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20260704-WA0010.mp4",
       "size": 13090523
+    },
+    {
+      "name": "VID-20260716-WA0000.mp4",
+      "path": "videos/VID-20260716-WA0000.mp4",
+      "sha": "d7a0b8789f0f8821756b6df7bc77436ae3ac6ada",
+      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20260716-WA0000.mp4",
+      "size": 7823444
     }
   ]
 }
