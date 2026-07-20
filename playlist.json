@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-07-20T17:02:38.439Z",
+  "updated_at": "2026-07-20T21:27:56.810Z",
   "videos": [
+    {
+      "name": "Guarda_Roupa.mp4",
+      "path": "videos/Guarda_Roupa.mp4",
+      "sha": "1dd957d7fe5e1163e2ab096a20149201d1c0d397",
+      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Guarda_Roupa.mp4",
+      "size": 8796953
+    },
     {
       "name": "Sorteio.mp4",
       "path": "videos/Sorteio.mp4",
