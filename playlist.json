@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-27T11:34:38.319Z",
+  "updated_at": "2026-07-27T12:15:22.593Z",
   "videos": [
-    {
-      "name": "Guarda_Roupa.mp4",
-      "path": "videos/Guarda_Roupa.mp4",
-      "sha": "1dd957d7fe5e1163e2ab096a20149201d1c0d397",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Guarda_Roupa.mp4",
-      "size": 8796953
-    },
-    {
-      "name": "Sorteio.mp4",
-      "path": "videos/Sorteio.mp4",
-      "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
-      "size": 1633768
-    },
     {
       "name": "f_rias.mp4",
       "path": "videos/f_rias.mp4",
