@@ -1,12 +1,4 @@
 {
-  "updated_at": "2026-07-27T12:15:22.593Z",
-  "videos": [
-    {
-      "name": "f_rias.mp4",
-      "path": "videos/f_rias.mp4",
-      "sha": "ca92ef625ef99bcc0563909a6aa34d43ca6a4e5c",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/f_rias.mp4",
-      "size": 2003148
-    }
-  ]
+  "updated_at": "2026-07-27T12:15:29.635Z",
+  "videos": []
 }
