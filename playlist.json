@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T12:22:59.540Z",
+  "updated_at": "2026-07-30T20:02:58.988Z",
   "videos": [
     {
       "name": "Ferias.mp4",
@@ -14,6 +14,13 @@
       "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
       "size": 1633768
+    },
+    {
+      "name": "celular.mp4",
+      "path": "videos/celular.mp4",
+      "sha": "311cea2f0e4ebe1edffdbf4b45e30fe7a65d12ab",
+      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/celular.mp4",
+      "size": 1063599
     }
   ]
 }
