@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-30T22:47:03.121Z",
+  "updated_at": "2026-07-31T01:11:22.290Z",
   "videos": [
-    {
-      "name": "Ferias.mp4",
-      "path": "videos/Ferias.mp4",
-      "sha": "9c326b82bda0347ad990b2a4602201cff3a613fa",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Ferias.mp4",
-      "size": 2003148
-    },
     {
       "name": "Sorteio.mp4",
       "path": "videos/Sorteio.mp4",
