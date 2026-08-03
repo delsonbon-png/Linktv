@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T17:04:17.434Z",
+  "updated_at": "2026-08-03T17:04:22.906Z",
   "videos": [
     {
       "name": "Sorteio.mp4",
@@ -7,13 +7,6 @@
       "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
       "size": 1633768
-    },
-    {
-      "name": "fechames.mp4",
-      "path": "videos/fechames.mp4",
-      "sha": "da6c868134222a9f10ccdc9229fe9d4b5baf8b06",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/fechames.mp4",
-      "size": 1108149
     },
     {
       "name": "ferias_2.mp4",
