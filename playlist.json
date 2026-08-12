@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T17:48:14.498Z",
+  "updated_at": "2026-08-12T03:06:53.587Z",
   "videos": [
     {
       "name": "Sorteio.mp4",
@@ -14,13 +14,6 @@
       "sha": "347684af1550e361b543360e542ffcae79e9602a",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20260808-WA0026.mp4",
       "size": 28049418
-    },
-    {
-      "name": "ferias_2.mp4",
-      "path": "videos/ferias_2.mp4",
-      "sha": "b9caccdad803bb3b997a47e4ccb84e6588fbbf10",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/ferias_2.mp4",
-      "size": 2954067
     },
     {
       "name": "moto.mp4",
