@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:00:25.673Z",
+  "updated_at": "2026-09-03T12:33:36.253Z",
   "videos": [
     {
       "name": "Sorteio.mp4",
@@ -7,13 +7,6 @@
       "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
       "size": 1633768
-    },
-    {
-      "name": "moto.mp4",
-      "path": "videos/moto.mp4",
-      "sha": "e491f65439c384073bae30977b3aae0e8aa4bf9b",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/moto.mp4",
-      "size": 2163541
     }
   ]
 }
