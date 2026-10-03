@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:59:06.462Z",
+  "updated_at": "2026-10-03T15:26:43.055Z",
   "videos": [
     {
       "name": "Sorteio.mp4",
@@ -7,6 +7,13 @@
       "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
       "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
       "size": 1633768
+    },
+    {
+      "name": "VID-20261003-WA0010_compressed.mp4",
+      "path": "videos/VID-20261003-WA0010_compressed.mp4",
+      "sha": "9ad28260109c241a0f8a2495bbe02defdda78ebe",
+      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20261003-WA0010_compressed.mp4",
+      "size": 11400794
     }
   ]
 }
