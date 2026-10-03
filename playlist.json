@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-10-03T15:26:43.055Z",
+  "updated_at": "2026-10-03T15:26:55.410Z",
   "videos": [
-    {
-      "name": "Sorteio.mp4",
-      "path": "videos/Sorteio.mp4",
-      "sha": "0f5bfe099269d1bf0ead7073ee37af555ca16bb1",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Sorteio.mp4",
-      "size": 1633768
-    },
     {
       "name": "VID-20261003-WA0010_compressed.mp4",
       "path": "videos/VID-20261003-WA0010_compressed.mp4",
