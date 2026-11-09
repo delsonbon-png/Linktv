@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-11-03T15:34:00.122Z",
+  "updated_at": "2026-11-09T11:13:03.633Z",
   "videos": [
-    {
-      "name": "Calcados_Casa_Nunes_Rocha_TV.mp4",
-      "path": "videos/Calcados_Casa_Nunes_Rocha_TV.mp4",
-      "sha": "135e65b4127408ddfa868ab876e0720deaa08c54",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/Calcados_Casa_Nunes_Rocha_TV.mp4",
-      "size": 11376705
-    },
     {
       "name": "VID-20261103-WA0031.mp4",
       "path": "videos/VID-20261103-WA0031.mp4",
