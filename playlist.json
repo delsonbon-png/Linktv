@@ -1,12 +1,4 @@
 {
-  "updated_at": "2026-11-09T11:13:03.633Z",
-  "videos": [
-    {
-      "name": "VID-20261103-WA0031.mp4",
-      "path": "videos/VID-20261103-WA0031.mp4",
-      "sha": "c8d9061d7d612f5ce759a5be6c4a9cee91a08409",
-      "download_url": "https://raw.githubusercontent.com/delsonbon-png/Linktv/main/videos/VID-20261103-WA0031.mp4",
-      "size": 30815381
-    }
-  ]
+  "updated_at": "2026-11-09T11:13:07.538Z",
+  "videos": []
 }
